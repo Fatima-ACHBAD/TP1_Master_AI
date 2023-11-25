@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819069931080",
+    "project_id": "tp1masterai",
+    "storage_bucket": "tp1masterai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819069931080:android:de86a262315750b3a1927d",
+        "android_client_info": {
+          "package_name": "com.example.tp1_master_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe3cPWRy8o6vi4VzxwbCwn9npcXUNNt1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
