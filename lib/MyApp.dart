@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
     theme: ThemeData(
     primarySwatch: Colors.cyan,
     ),
-    //  home: const Login(),
-    home: const ActivitiesPage(),
+    home: const Login(),
+    //home: const ActivitiesPage(),
 
     debugShowCheckedModeBanner: false,
     );
